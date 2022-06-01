@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋 I'm Yashasvi Srivastava</h1>
 
-I'm a professional UI/UX designer for web-pages and Full Stack Web Developer.
+<p align="center">I'm a professional UI/UX designer for web-pages and Full Stack Web Developer.</p>
 
-I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.
+<p align="center">I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.</p>
 
 <p align="center" display="flex" gap="20px"> <a href="https://linkedin.com/in/yashasvi-srivastava-13aba5236" target="_blank" rel="noreferrer"> <img src="https://mikindom.sirv.com/Images/linkedin.png" alt="bootstrap" width="40" height="40"/> </a>
    <a href="mailto:imyash.654@gmail.com" target="_blank" rel="noreferrer"> <img src="https://mikindom.sirv.com/Images/gmail.png" alt="email" width="40" height="40"/> </a> </p>
