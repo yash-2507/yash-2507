@@ -34,7 +34,7 @@
             <td>React.Js & JavaScript</td>
             <td><a href="https://reliable-melomakarona-0d573e.netlify.app/" target="_blank">https://reliable-melomakarona-0d573e.netlify.app/</a></td>
         </tr>
-           <tr>
+        <tr>
             <td>3.</td>
             <td>Revv Clone</td>
             <td>HTML,CSS & JS</td>
@@ -56,7 +56,13 @@
             <td>6.</td>
             <td>Portfolio</td>
             <td>React</td>
-            <td><a href="https://dev-yash-srivastava.netlify.app/"  target="_blank">https://dev-yash-srivastava.netlify.app/</a></td>
+            <td><a href="https://dev-yash.cf/"  target="_blank">https://dev-yash.cf</a></td>
+        </tr>
+         <tr>
+            <td>7.</td>
+            <td>CoSchedule Clone</td>
+            <td>React.js, MongoDB, Express.js & Node.js</td>
+            <td><a href="https://wonderful-taffy-9803c5.netlify.app" target="_blank">https://wonderful-taffy-9803c5.netlify.app</a></td>
         </tr>
     </tbody>
 
