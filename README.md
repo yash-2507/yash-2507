@@ -26,7 +26,7 @@
             <td>1.</td>
             <td>Bewakoof.com</td>
             <td>React, Express, MongoDB, TailwindCSS</td>
-            <td><a href="https://http://heady-rabbits-8957.vercel.app" target="_blank">https://http://heady-rabbits-8957.vercel.app</a></td>
+            <td><a href="https://heady-rabbits-8957.vercel.app" target="_blank">https://heady-rabbits-8957.vercel.app</a></td>
         </tr>
         <tr>
             <td>2.</td>
