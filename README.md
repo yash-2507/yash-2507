@@ -22,7 +22,13 @@
         </tr>
     </thead>
       <tbody>
-         <tr>
+        <tr>
+            <td>1.</td>
+            <td>Bewakoof.com</td>
+            <td>React, Express, MongoDB, TailwindCSS</td>
+            <td><a href="https://http://heady-rabbits-8957.vercel.app" target="_blank">https://http://heady-rabbits-8957.vercel.app</a></td>
+        </tr>
+        <tr>
             <td>1.</td>
             <td>J.Crew Clone</td>
             <td>React & Redux Toolkit</td>
