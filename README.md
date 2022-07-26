@@ -29,43 +29,43 @@
             <td><a href="https://http://heady-rabbits-8957.vercel.app" target="_blank">https://http://heady-rabbits-8957.vercel.app</a></td>
         </tr>
         <tr>
-            <td>1.</td>
+            <td>2.</td>
             <td>J.Crew Clone</td>
             <td>React & Redux Toolkit</td>
             <td><a href="https://snazzy-horse-6fab01.netlify.app/" target="_blank">https://snazzy-horse-6fab01.netlify.app/</a></td>
         </tr>
         <tr>
-            <td>2.</td>
+            <td>3.</td>
             <td>upGrad Clone</td>
             <td>React.Js & JavaScript</td>
             <td><a href="https://reliable-melomakarona-0d573e.netlify.app/" target="_blank">https://reliable-melomakarona-0d573e.netlify.app/</a></td>
         </tr>
         <tr>
-            <td>3.</td>
+            <td>4.</td>
             <td>Revv Clone</td>
             <td>HTML,CSS & JS</td>
             <td><a href="https://benevolent-longma-bd1a47.netlify.app"  target="_blank">https://benevolent-longma-bd1a47.netlify.app</a></td>
         </tr> 
          <tr>
-            <td>4.</td>
+            <td>5.</td>
             <td>Tic-Tac-Toe</td>
             <td>React</td>
             <td><a href="https://euphonious-sunburst-217601.netlify.app/"  target="_blank">https://euphonious-sunburst-217601.netlify.app/</a></td>
         </tr>
          <tr>
-            <td>5.</td>
+            <td>6.</td>
             <td>Shopping Cart</td>
             <td>Redux Toolkit & React</td>
             <td><a href="https://spontaneous-marzipan-7f27a7.netlify.app/"  target="_blank">https://spontaneous-marzipan-7f27a7.netlify.app/</a></td>
         </tr>
         <tr>
-            <td>6.</td>
+            <td>7.</td>
             <td>Portfolio</td>
             <td>React</td>
             <td><a href="https://dev-yash.cf/"  target="_blank">https://dev-yash.cf</a></td>
         </tr>
          <tr>
-            <td>7.</td>
+            <td>8.</td>
             <td>CoSchedule Clone</td>
             <td>React.js, MongoDB, Express.js & Node.js</td>
             <td><a href="https://wonderful-taffy-9803c5.netlify.app" target="_blank">https://wonderful-taffy-9803c5.netlify.app</a></td>
