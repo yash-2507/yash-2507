@@ -75,7 +75,7 @@
 </table>
 
 <br/>
-<a href="https://github.com/Akshit3010/github-readme-activity-graph"><img alt="Akshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshit3010&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/yash-2507/github-readme-activity-graph"><img alt="Yash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yash-2507&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br />
 
 <h1 align="center"> Thank You ❤</h1>
