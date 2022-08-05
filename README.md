@@ -83,6 +83,20 @@
 </table>
 
 <br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-2507&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="yash-2507" /></p>
+
+<p align="center">
+    <a href="https://github.com/Yash-207/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-2507&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/Akshit3010/github-readme-stats"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-2507&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+ 
+<br/>
+
+<br/>
 <a href="https://github.com/yash-2507/github-readme-activity-graph"><img alt="Yash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yash-2507&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br />
 
