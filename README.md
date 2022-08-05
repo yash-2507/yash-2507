@@ -27,7 +27,8 @@
 </p>
 <br>
 
-<h2 align="center"> My Project </h2>
+<h3 align="left">My Projects:</h3>
+<hr>
 <table align="center" border="2">
    <thead>
         <tr>
