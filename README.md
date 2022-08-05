@@ -11,7 +11,7 @@
 <p align="center">I'm a professional UI/UX designer for web-pages and Full Stack Web Developer.</p>
 
 <p align="center">I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.</p>
-
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <hr>
   
