@@ -1,5 +1,13 @@
 <h1 align="center"> Hi 👋 I'm Yashasvi Srivastava</h1>
 
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
+
 <p align="center">I'm a professional UI/UX designer for web-pages and Full Stack Web Developer.</p>
 
 <p align="center">I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.</p>
