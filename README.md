@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
 <p align="center">I'm a professional UI/UX designer for web-pages and Full Stack Web Developer.</p>
 
 <p align="center">I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.</p>
