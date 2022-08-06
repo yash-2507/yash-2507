@@ -7,8 +7,9 @@
 <img src="https://img.shields.io/badge/N-Node-green"/>
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+<br />
+<br />
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/yash-2507)
 
 <p align="center">I'm a professional UI/UX designer for web-pages and Full Stack Web Developer.</p>
 
