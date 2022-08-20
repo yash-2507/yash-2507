@@ -12,6 +12,23 @@
 
 <p align="center">I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.</p>
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-2507&label=Profile%20views&color=0e75b6&style=flat" alt="yash" /> </p>
+
+- 🌍 I'm based in **Varanasi, Uttar Pradesh**
+
+- 🌱 I’m currently learning **Animation Libraries**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React & Data-Structures**
+
+- 📫 How to reach me **imyash.654@gmail.com**
+
+- 👨‍💻 All my projects are available at my [Portfolio](https://dev-yash.cf/)
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <hr>
   
