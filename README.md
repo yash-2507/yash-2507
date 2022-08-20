@@ -13,6 +13,8 @@
 <p align="center">I'm meticulous and self-motivated aspiring full-stack web developer with a specialization in MERN stack. Observant and curious, with a keen interest in building user-centric designs and products.</p>
 <br />
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-2507&label=Profile%20views&color=0e75b6&style=flat" alt="yash" /> </p>
 
 - 🌍 I'm based in **Varanasi, Uttar Pradesh**
