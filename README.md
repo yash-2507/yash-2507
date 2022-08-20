@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Yashasvi Srivastava</h1>
+<hr>
 
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
@@ -15,7 +16,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-2507&label=Profile%20views&color=0e75b6&style=flat" alt="yash" /> </p>
+<hr>
 
 - 🌍 I'm based in **Varanasi, Uttar Pradesh**
 
