@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **imyash.654@gmail.com**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://dev-yash.cf/)
+- 👨‍💻 All my projects are available at my [Portfolio](https://dev-yashh.netlify.app/)
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
@@ -96,7 +96,7 @@
             <td>7.</td>
             <td>Portfolio</td>
             <td>React</td>
-            <td><a href="https://dev-yash.cf/"  target="_blank">https://dev-yash.cf</a></td>
+            <td><a href="https://dev-yash.cf/"  target="_blank">https://dev-yashh.netlify.app</a></td>
         </tr>
          <tr>
             <td>8.</td>
